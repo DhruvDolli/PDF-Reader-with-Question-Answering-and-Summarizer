@@ -20,7 +20,7 @@ Built using **HuggingFace Transformers**, **pdfplumber**, and **Streamlit**.
 
 
 
-![screenshot](screenshots/Summarizer.png)
+![screenshot]([screenshots/Summarizer.png](https://github.com/DhruvDolli/PDF-Reader-with-Question-Answering-and-Summarizer/blob/main/QA.png?raw=true))
 ![screenshot](screenshots/QA.png)
 
 
