@@ -24,7 +24,7 @@ Built using **HuggingFace Transformers**, **pdfplumber**, and **Streamlit**.
 | Tool | Purpose |
 |------|---------|
 | [Streamlit](https://streamlit.io) | Web UI |
-| [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) | PDF parsing |
+| [pdfplumber](https://pypi.org/project/pdfplumber/) | PDF parsing |
 | [Transformers](https://huggingface.co/transformers/) | NLP models |
 | [HuggingFace Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) | Easy access to QA/Summarization |
 
