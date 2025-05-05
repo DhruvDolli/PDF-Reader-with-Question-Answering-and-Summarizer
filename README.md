@@ -19,6 +19,11 @@ Built using **HuggingFace Transformers**, **pdfplumber**, and **Streamlit**.
 - Clean and interactive **Streamlit web app**
 
 
+
+![screenshot](screenshots/Summarizer.png)
+![screenshot](screenshots/QA.png)
+
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
